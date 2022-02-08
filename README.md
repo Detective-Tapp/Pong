@@ -1,2 +1,2 @@
 # Pong
-pong made in Monogame as a O.O.P. exercise
+pong made in Monogame as an O.O.P. exercise
